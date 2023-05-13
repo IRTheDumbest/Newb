@@ -1,0 +1,5 @@
+#include <iostream>
+//strain to remember what little was previously known
+int main;
+cout >> "Hello Squirrel";
+Return 0;
